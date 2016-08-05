@@ -1,0 +1,41 @@
+ul, ol {
+  margin: 0;
+  padding: 0; }
+
+.wrapper {
+  width: 100%; }
+
+body {
+  font: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0; }
+
+p {
+  font: "Raleway", sans-serif;
+  color: #f95759; }
+
+.menu li {
+  list-style-type: none;
+  padding: 2px; }
+.menu a {
+  text-decoration: none; }
+
+.header, .menu a {
+  color: #f95759; }
+
+.headline {
+  color: #f95759;
+  font-size: 12px; }
+
+.box {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px; }
+
+.box {
+  background: #ccc;
+  width: 300px;
+  height: 100px; }
+
+/*# sourceMappingURL=output.css.map */
