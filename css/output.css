@@ -21,7 +21,8 @@ p {
   text-decoration: none; }
 
 .header, .menu a {
-  color: #f95759; }
+  color: #f95759;
+  font-size: 12px; }
 
 .headline {
   color: #f95759;
@@ -36,6 +37,23 @@ p {
 .box {
   background: #ccc;
   width: 300px;
-  height: 100px; }
+  height: 100px;
+  color: red; }
+
+.message, .error {
+  border: 1px solid #000;
+  padding: 10px;
+  color: black; }
+
+.error {
+  font-size: 20px; }
+
+.container {
+  width: 100%; }
+
+article {
+  float: left;
+  background: #f95759;
+  width: 33.33333%; }
 
 /*# sourceMappingURL=output.css.map */
