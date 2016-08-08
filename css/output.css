@@ -54,6 +54,7 @@ p {
 article {
   float: left;
   background: #f95759;
-  width: 33.33333%; }
+  width: 33.33333%;
+  color: red; }
 
 /*# sourceMappingURL=output.css.map */
